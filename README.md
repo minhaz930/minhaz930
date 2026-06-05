@@ -1,65 +1,129 @@
-# Hi 👋, I'm Md Minhaz Ahmad
+<div align="center">
 
-### Frontend Developer | Full Stack Learner | Computer Science Student
+# Md Minhaz Ahmad
 
-🚀 Passionate about building modern and responsive websites using HTML, CSS, JavaScript and Bootstrap.
+### Front-End Developer • Full Stack Learner • Problem Solver
 
-🌱 Currently Learning:
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- PHP
-- MySQL
-- Full Stack Development
+<p>
+Building responsive websites, learning modern web technologies, and turning ideas into real-world projects.
+</p>
 
-💻 Technologies & Tools
-
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- React
-- PHP
-- MySQL
-- Git
-- GitHub
-
-## Projects
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing my skills and projects.
-
-### 🎥 YouTube Clone
-Responsive YouTube UI clone using HTML & CSS.
-
-### 🏢 Consultancy Website
-Business website with responsive design and modern layout.
-
-### 🌍 My-Web
-Practice project for frontend development.
-
-## Internship Experience
-
-**Web Development Intern**
-- Developed responsive web pages.
-- Worked on UI improvements.
-- Fixed frontend issues.
-- Learned real-world development workflow.
-
-## GitHub Stats
-
-- Public Repositories: 5+
-- Learning Full Stack Development
-- Building Real-World Projects
-
-## Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 GitHub:
-https://github.com/minhaz930
+</div>
 
 ---
 
-⭐ Always learning, always building.
+## About Me
+
+* Computer Science Engineering Student
+* Currently learning Full Stack Development
+* Strong foundation in HTML, CSS, Bootstrap and JavaScript
+* Exploring React, PHP and MySQL
+* Passionate about UI/UX and responsive design
+* Open to internships and collaboration opportunities
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## Featured Projects
+
+### Portfolio Website
+
+Personal portfolio website showcasing skills, projects and achievements.
+
+### YouTube Clone
+
+Responsive YouTube interface clone built using HTML and CSS.
+
+### Consultancy Website
+
+Modern business website with responsive layout and professional design.
+
+### My-Web
+
+Frontend practice project focused on layouts and responsiveness.
+
+---
+
+## What I'm Learning
+
+```txt
+HTML5          ████████████████████ 95%
+CSS3           ████████████████████ 90%
+Bootstrap      ██████████████████░░ 85%
+JavaScript     ███████████████░░░░░ 75%
+React          ██████████░░░░░░░░░░ 50%
+PHP            █████████░░░░░░░░░░░ 45%
+MySQL          █████████░░░░░░░░░░░ 45%
+```
+
+---
+
+## Development Journey
+
+```txt
+Frontend Development  ────────────────► Advanced
+React Development     ────────► Learning
+Backend Development   ─────► Learning
+Full Stack Developer  ──► Goal
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaz930&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz930&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=minhaz930&theme=tokyonight" />
+
+</p>
+
+---
+
+## Current Focus
+
+* Building real-world projects
+* Improving JavaScript skills
+* Learning React.js
+* Understanding backend development
+* Becoming a Full Stack Developer
+
+---
+
+## Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/minhaz930">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Code • Learn • Build • Repeat
+
+</div>
