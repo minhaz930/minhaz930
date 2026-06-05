@@ -1,129 +1,114 @@
 <div align="center">
 
-# Md Minhaz Ahmad
+# Hi 👋, I'm Md Minhaz Ahmad
 
-### Front-End Developer • Full Stack Learner • Problem Solver
-
-<p>
-Building responsive websites, learning modern web technologies, and turning ideas into real-world projects.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Learner;React+Developer+in+Progress;Building+Real+World+Projects;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-* Computer Science Engineering Student
-* Currently learning Full Stack Development
-* Strong foundation in HTML, CSS, Bootstrap and JavaScript
-* Exploring React, PHP and MySQL
-* Passionate about UI/UX and responsive design
-* Open to internships and collaboration opportunities
+* 🎓 Computer Science Engineering Student
+* 💻 Frontend Developer
+* 🌱 Learning React, PHP & MySQL
+* 🔥 Building Real World Projects
+* 🎯 Goal: Become a Full Stack Developer
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,mysql,git,github,vscode" />
 
-</p>
+</div>
 
 ---
 
-## Featured Projects
+## 📊 GitHub Analytics
 
-### Portfolio Website
+<div align="center">
 
-Personal portfolio website showcasing skills, projects and achievements.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaz930&show_icons=true&theme=tokyonight&hide_border=true" />
 
-### YouTube Clone
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz930&layout=compact&theme=tokyonight&hide_border=true" />
 
-Responsive YouTube interface clone built using HTML and CSS.
-
-### Consultancy Website
-
-Modern business website with responsive layout and professional design.
-
-### My-Web
-
-Frontend practice project focused on layouts and responsiveness.
+</div>
 
 ---
 
-## What I'm Learning
+## 🔥 GitHub Streak
 
-```txt
-HTML5          ████████████████████ 95%
-CSS3           ████████████████████ 90%
-Bootstrap      ██████████████████░░ 85%
-JavaScript     ███████████████░░░░░ 75%
-React          ██████████░░░░░░░░░░ 50%
-PHP            █████████░░░░░░░░░░░ 45%
-MySQL          █████████░░░░░░░░░░░ 45%
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=minhaz930&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz930&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+
+Personal portfolio website showcasing skills and projects.
+
+### 🎥 YouTube Clone
+
+Responsive YouTube UI Clone built using HTML & CSS.
+
+### 🏢 Consultancy Website
+
+Modern responsive business website.
+
+### 🌍 My-Web
+
+Frontend development practice project.
+
+---
+
+## 🎯 Current Focus
+
+```text
+✔ HTML & CSS
+✔ Bootstrap
+✔ JavaScript
+🔄 React.js
+🔄 PHP
+🔄 MySQL
+🎯 Full Stack Development
 ```
 
 ---
 
-## Development Journey
-
-```txt
-Frontend Development  ────────────────► Advanced
-React Development     ────────► Learning
-Backend Development   ─────► Learning
-Full Stack Developer  ──► Goal
-```
-
----
-
-## GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaz930&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz930&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=minhaz930&theme=tokyonight" />
-
-</p>
-
----
-
-## Current Focus
-
-* Building real-world projects
-* Improving JavaScript skills
-* Learning React.js
-* Understanding backend development
-* Becoming a Full Stack Developer
-
----
-
-## Connect With Me
-
-<p align="left">
-
 <a href="https://github.com/minhaz930">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
 </p>
 
 ---
 
 <div align="center">
 
-### Code • Learn • Build • Repeat
+<img src="https://komarev.com/ghpvc/?username=minhaz930&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+### 💻 Code • Learn • Build • Repeat 🚀
 
 </div>
+
